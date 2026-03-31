@@ -1,8 +1,3 @@
-Here’s your **FULL final README.md** with your name (**Shubhangi Roy**) — clean, professional, and ready to **copy-paste directly** ✅👇
-
----
-
-```markdown
 # 🛣️ Smart Road Crack Detection using Image Processing
 
 A computer vision project that detects cracks in road surface images using **classical image processing techniques** — no deep learning required. Built with Python and OpenCV as a university course project.
